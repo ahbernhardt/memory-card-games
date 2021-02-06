@@ -1,4 +1,4 @@
-package classes;
+package MemoryCardGames;
 
 public class Main {
 
