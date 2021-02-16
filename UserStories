@@ -1,0 +1,21 @@
+### User-stories
+
+*As a Player*, I need to know the rules before start the games.
+
+*As a Player*, I want to have more than one player option so that I play with another person.
+
+*As a Player*, I want to keep track of time so that I could compete/ improve every time playing the game.
+
+*As group player*, we want to know how many matched pairs so that we know who is the winner.
+
+*As a Player*, I want to write a report/ feedback options.
+
+*As a Player*, I want to have option to replay the game (choose option for single player ) or restart the game.
+
+*As a Player*, I want to save time record so that I can compare it for the next time.
+
+*As a developer/designer*, I want a simple welcome page so that the player can follow-up with the rules before start the games.
+
+*As a developer/designer*, I want a single player have game mode options so that player could improvement/ challenge.
+
+*As a developer/designer*, I want a player or players have on/off music options so that might help player more concentrate or entertain.
