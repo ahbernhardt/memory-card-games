@@ -35,23 +35,15 @@ Improving your long-term and working memory can improve your performance by boos
 
 <a id="feature"></a>
 ### Feature
-> Rules Information
-> 
-> Timer
-> 
-> Number of Player Option
-> 
-> Game mode options (only single player)
-> 
-> Matched pairs counter
-> 
-> Feedback
-> 
-> Save record / Replay / Restart the game
-> 
-> Music Option
-> 
-> Save record
+- [ ] Rules Information
+- [ ] Timer
+- [ ] Number of Player Option
+- [ ] Game mode options (only single player)
+- [ ] Matched pairs counter
+- [ ] Feedback
+- [ ] Save record / Replay / Restart the game
+- [ ] Music Option
+- [ ] Save record
 
 
 
